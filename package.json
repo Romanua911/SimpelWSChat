@@ -10,7 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "socket.io": "^2.0.4"
+  },
   "devDependencies": {
     "ws": "3.3.2"
   }

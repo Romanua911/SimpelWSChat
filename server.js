@@ -21,5 +21,5 @@ server.on('connection', ws => {
         }
     });
 
-    ws.send('Добро пожаловать в CodeDojo. \n Архив -arhive');
+    ws.send('Welcome SimpelWSChat. \n History -arhive');
 });
