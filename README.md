@@ -1,11 +1,11 @@
 # SimpelWSChat
 npm i
 
-#Firt Terminal
+#First
 
 node socket.js
 
-#Second Terminal
+#Second
 
 http-server
 
